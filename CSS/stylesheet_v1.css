@@ -220,21 +220,6 @@ div.sidebar-flex {
 }
 */
 
-/* SENTICS
-------------------------------------*/
-
-
-.SENTICS-images {
-  	display: flex;
-	grid-template-columns: 1fr 1fr;
-	column-gap: 5px;
-}
-
-.SENTICS-item {
-	box-sizing: border-box;
-	padding: 0px;
-	flex: 0 0 50%;
-}
 
 /* FAITH
 ------------------------------------*/
